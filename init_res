@@ -1,1 +1,21 @@
-init
+-------
+  GCC
+-------
+----------
+Threads = 1
+Time in seconds = 48.483108
+----------
+Threads = 2
+Time in seconds = 48.495473
+----------
+Threads = 4
+Time in seconds = 48.573199
+----------
+Threads = 8
+Time in seconds = 48.447896
+----------
+Threads = 16
+Time in seconds = 48.630245
+----------
+Threads = 32
+Time in seconds = 48.730918
