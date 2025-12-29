@@ -1,1 +1,21 @@
-
+-------
+  GCC task
+-------
+----------
+Threads = 1
+Time in seconds = 85.806308
+----------
+Threads = 2
+Time in seconds = 42.868649
+----------
+Threads = 4
+Time in seconds = 21.593198
+----------
+Threads = 8
+Time in seconds = 11.101861
+----------
+Threads = 16
+Time in seconds = 7.779998
+----------
+Threads = 32
+Time in seconds = 7.831311
