@@ -1,1 +1,21 @@
-
+-----------------------------------------------------
+  GCC for
+-----------------------------------------------------
+----------
+Threads = 1
+Time in seconds = 66.134168
+----------
+Threads = 2
+Time in seconds = 33.270733
+----------
+Threads = 4
+Time in seconds = 16.502678
+----------
+Threads = 8
+Time in seconds = 8.878556
+----------
+Threads = 16
+Time in seconds = 9.430579
+----------
+Threads = 32
+Time in seconds = 8.241214
