@@ -1,5 +1,5 @@
 =====================================================
- GCC -O2 | DATASET = MINI_DATASET
+ GCC -O3 | DATASET = MINI_DATASET
 =====================================================
 ----------
 Threads = 1
@@ -20,7 +20,7 @@ Time in seconds = 0.001200
 Threads = 32
 Time in seconds = 0.001758
 =====================================================
- GCC -O2 | DATASET = SMALL_DATASET
+ GCC -O3 | DATASET = SMALL_DATASET
 =====================================================
 ----------
 Threads = 1
@@ -41,7 +41,7 @@ Time in seconds = 0.008477
 Threads = 32
 Time in seconds = 0.003346
 =====================================================
- GCC -O2 | DATASET = MEDIUM_DATASET
+ GCC -O3 | DATASET = MEDIUM_DATASET
 =====================================================
 ----------
 Threads = 1
@@ -62,7 +62,7 @@ Time in seconds = 0.011575
 Threads = 32
 Time in seconds = 0.008200
 =====================================================
- GCC -O2 | DATASET = LARGE_DATASET
+ GCC -O3 | DATASET = LARGE_DATASET
 =====================================================
 ----------
 Threads = 1
@@ -83,7 +83,7 @@ Time in seconds = 0.539545
 Threads = 32
 Time in seconds = 0.551544
 =====================================================
- GCC -O2 | DATASET = EXTRALARGE_DATASET
+ GCC -O3 | DATASET = EXTRALARGE_DATASET
 =====================================================
 ----------
 Threads = 1
