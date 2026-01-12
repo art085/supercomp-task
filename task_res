@@ -1,21 +1,108 @@
 -------
   GCC task
 -------
+=====================================================
+ DATASET = MINI_DATASET
+=====================================================
 ----------
 Threads = 1
-Time in seconds = 85.806308
+Time in seconds = 0.002256
 ----------
 Threads = 2
-Time in seconds = 42.868649
+Time in seconds = 0.001479
 ----------
 Threads = 4
-Time in seconds = 21.593198
+Time in seconds = 0.001110
 ----------
 Threads = 8
-Time in seconds = 11.101861
+Time in seconds = 0.000870
 ----------
 Threads = 16
-Time in seconds = 7.779998
+Time in seconds = 0.001504
 ----------
 Threads = 32
-Time in seconds = 7.831311
+Time in seconds = 0.001846
+=====================================================
+ DATASET = SMALL_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 0.035317
+----------
+Threads = 2
+Time in seconds = 0.019622
+----------
+Threads = 4
+Time in seconds = 0.008290
+----------
+Threads = 8
+Time in seconds = 0.007228
+----------
+Threads = 16
+Time in seconds = 0.005168
+----------
+Threads = 32
+Time in seconds = 0.005718
+=====================================================
+ DATASET = MEDIUM_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 0.545322
+----------
+Threads = 2
+Time in seconds = 0.258920
+----------
+Threads = 4
+Time in seconds = 0.124015
+----------
+Threads = 8
+Time in seconds = 0.065201
+----------
+Threads = 16
+Time in seconds = 0.041801
+----------
+Threads = 32
+Time in seconds = 0.046428
+=====================================================
+ DATASET = LARGE_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 70.599222
+----------
+Threads = 2
+Time in seconds = 35.643919
+----------
+Threads = 4
+Time in seconds = 17.725395
+----------
+Threads = 8
+Time in seconds = 9.201917
+----------
+Threads = 16
+Time in seconds = 5.024261
+----------
+Threads = 32
+Time in seconds = 4.928292
+=====================================================
+ DATASET = EXTRALARGE_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 666.884048
+----------
+Threads = 2
+Time in seconds = 339.080416
+----------
+Threads = 4
+Time in seconds = 170.490249
+----------
+Threads = 8
+Time in seconds = 87.642139
+----------
+Threads = 16
+Time in seconds = 46.576415
+----------
+Threads = 32
+Time in seconds = 47.317163
