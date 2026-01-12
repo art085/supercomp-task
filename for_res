@@ -1,132 +1,108 @@
 -----------------------------------------------------
   GCC for
 -----------------------------------------------------
-----------
-Threads = 1
-Time in seconds = 66.134168
-----------
-Threads = 2
-Time in seconds = 33.270733
-----------
-Threads = 4
-Time in seconds = 16.502678
-----------
-Threads = 8
-Time in seconds = 8.878556
-----------
-Threads = 16
-Time in seconds = 9.430579
-----------
-Threads = 32
-Time in seconds = 8.241214
-
-
 =====================================================
- DATASET = MINI_DATASET (10)
+ DATASET = MINI_DATASET
 =====================================================
 ----------
 Threads = 1
-Time in seconds = 0.000127
+Time in seconds = 0.000783
 ----------
 Threads = 2
-Time in seconds = 0.000244
+Time in seconds = 0.000568
 ----------
 Threads = 4
-Time in seconds = 0.000308
+Time in seconds = 0.000546
 ----------
 Threads = 8
-Time in seconds = 0.000429
+Time in seconds = 0.000637
 ----------
 Threads = 16
-Time in seconds = 0.000750
+Time in seconds = 0.000892
 ----------
 Threads = 32
-Time in seconds = 0.004596
+Time in seconds = 0.005077
 =====================================================
- DATASET = SMALL_DATASET (20)
+ DATASET = SMALL_DATASET
 =====================================================
 ----------
 Threads = 1
-Time in seconds = 0.002001
+Time in seconds = 0.017115
 ----------
 Threads = 2
-Time in seconds = 0.001277
+Time in seconds = 0.008936
 ----------
 Threads = 4
-Time in seconds = 0.000955
+Time in seconds = 0.004815
 ----------
 Threads = 8
-Time in seconds = 0.001048
+Time in seconds = 0.003067
 ----------
 Threads = 16
-Time in seconds = 0.001483
+Time in seconds = 0.002369
 ----------
 Threads = 32
-Time in seconds = 0.008914
-
+Time in seconds = 0.018163
 =====================================================
- DATASET = MEDIUM_DATASET (40)
-=====================================================
-
-----------
-Threads = 1
-Time in seconds = 0.044170
-----------
-Threads = 2
-Time in seconds = 0.022680
-----------
-Threads = 4
-Time in seconds = 0.012023
-----------
-Threads = 8
-Time in seconds = 0.007114
-----------
-Threads = 16
-Time in seconds = 0.008622
-----------
-Threads = 32
-Time in seconds = 0.038655
-=====================================================
- DATASET = LARGE_DATASET (120)
+ DATASET = MEDIUM_DATASET
 =====================================================
 ----------
 Threads = 1
-Time in seconds = 6.444720
+Time in seconds = 0.404310
 ----------
 Threads = 2
-Time in seconds = 2.992953
+Time in seconds = 0.202356
 ----------
 Threads = 4
-Time in seconds = 1.502214
+Time in seconds = 0.103592
 ----------
 Threads = 8
-Time in seconds = 0.775211
+Time in seconds = 0.054178
 ----------
 Threads = 16
-Time in seconds = 0.505639
+Time in seconds = 0.029183
 ----------
 Threads = 32
-Time in seconds = 0.673690
+Time in seconds = 0.103964
 =====================================================
- DATASET = EXTRALARGE_DATASET (200)
+ DATASET = LARGE_DATASET
 =====================================================
-
 ----------
 Threads = 1
-Time in seconds = 57.851319
+Time in seconds = 60.672782
 ----------
 Threads = 2
-Time in seconds = 30.250659
+Time in seconds = 30.104908
 ----------
 Threads = 4
-Time in seconds = 15.843741
+Time in seconds = 15.060407
 ----------
 Threads = 8
-Time in seconds = 14.418537
+Time in seconds = 7.543808
 ----------
 Threads = 16
-Time in seconds = 14.888212
+Time in seconds = 4.045250
 ----------
 Threads = 32
-Time in seconds = 13.683858
-
+Time in seconds = 4.365479
+=====================================================
+ DATASET = EXTRALARGE_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 573.271083
+----------
+Threads = 2
+Time in seconds = 295.401085
+----------
+Threads = 4
+Time in seconds = 147.979158
+----------
+Threads = 8
+Time in seconds = 72.371463
+----------
+Threads = 16
+Time in seconds = 36.362061
+----------
+Threads = 32
+Time in seconds = 44.388692
