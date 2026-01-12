@@ -1,0 +1,108 @@
+=====================================================
+ GCC -fast | DATASET = MINI_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 0.000149
+----------
+Threads = 2
+Time in seconds = 0.000240
+----------
+Threads = 4
+Time in seconds = 0.000310
+----------
+Threads = 8
+Time in seconds = 0.000449
+----------
+Threads = 16
+Time in seconds = 0.001590
+----------
+Threads = 32
+Time in seconds = 0.004394
+=====================================================
+ GCC -fast | DATASET = SMALL_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 0.001996
+----------
+Threads = 2
+Time in seconds = 0.001291
+----------
+Threads = 4
+Time in seconds = 0.000950
+----------
+Threads = 8
+Time in seconds = 0.001064
+----------
+Threads = 16
+Time in seconds = 0.001536
+----------
+Threads = 32
+Time in seconds = 0.008855
+=====================================================
+ GCC -fast | DATASET = MEDIUM_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 0.041757
+----------
+Threads = 2
+Time in seconds = 0.021105
+----------
+Threads = 4
+Time in seconds = 0.011904
+----------
+Threads = 8
+Time in seconds = 0.007377
+----------
+Threads = 16
+Time in seconds = 0.008891
+----------
+Threads = 32
+Time in seconds = 0.036778
+=====================================================
+ GCC -fast | DATASET = LARGE_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 6.251279
+----------
+Threads = 2
+Time in seconds = 2.950062
+----------
+Threads = 4
+Time in seconds = 1.485160
+----------
+Threads = 8
+Time in seconds = 0.766759
+----------
+Threads = 16
+Time in seconds = 0.490114
+----------
+Threads = 32
+Time in seconds = 0.672048
+=====================================================
+=====================================================
+ GCC -fast | DATASET = EXTRALARGE_DATASET
+=====================================================
+----------
+Threads = 1
+Time in seconds = 59.549631
+----------
+Threads = 2
+Time in seconds = 32.315319
+----------
+Threads = 4
+Time in seconds = 17.164733
+----------
+Threads = 8
+Time in seconds = 14.231234
+----------
+Threads = 16
+Time in seconds = 14.868548
+----------
+Threads = 32
+Time in seconds = 13.788215
+
+=====================================================
